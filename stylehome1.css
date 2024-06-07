@@ -87,12 +87,12 @@
 .Code .itemCode{
     position: relative;
     float: left;
-    width: 262px;
-    font-size: 19px;
+    width: 275px;
+    font-size: 20px;
     text-align: center;
-    padding: 20px 30px 30px;
+    padding: 20px 33px 30px;
     background-color: white;
-    margin: 40px 15px 50px;
+    margin: 40px 22px 50px;
 }
 .itemCode .imgCode img{
     position: relative;
